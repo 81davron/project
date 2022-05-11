@@ -1,0 +1,109 @@
+@media (max-width:1080px){
+    .top{
+        display: none;
+    }
+    .top2 ul{
+        display: none;
+    }
+    .hidden{
+        display: block;
+        margin-top: 20px;
+        font-size: 25px;
+    }
+    .hidden:hover{
+        color: rgb(77, 206, 146);
+    }
+    .topIcon{
+        margin-top: 0 ;
+    }
+    .firstext h1{
+        font-size: 60px;
+        width: 300px;
+    }
+    .firstext p{
+        font-size: 12px;
+    }
+    .firstext h2{
+        font-size: 25px;
+    }
+    .box1{
+        width: 100%;
+    }
+    .box2{
+        width: 100%;
+    }
+    .box3{
+        width: 100%;
+    }
+    .box1 h2{
+        font-size: 40px;
+    }
+    .box2 h2{
+        font-size: 40px;
+    }
+    .box3 h2{
+        font-size: 40px;
+    }
+    .box1 input{
+        padding: 15px 40px;
+    }
+    .box2 input{
+        padding: 15px 40px;
+    }
+    .box3 input{
+        padding: 15px 40px;
+    }
+    .card{
+        width: 48%;
+    }
+}
+@media(max-width:400px){
+    .card{
+        width: 100%;
+    }
+}
+@media(max-width:355px){
+    .firstext h1{
+        font-size: 40px;
+        width: 200px;
+    }
+    .firstext p{
+        font-size: 10px;
+    }
+    .firstext h2{
+        font-size: 18px;
+    }
+    .box1 h2{
+        font-size: 30px;
+    }
+    .box2 h2{
+        font-size: 30px;
+    }
+    .box3 h2{
+        font-size: 30px;
+    }
+}
+@media(max-width:250px){
+    .firstext h1{
+        font-size: 20px;
+        width: 100px;
+    }
+    .firstext p{
+        font-size: 8px;
+    }
+    .firstext h2{
+        font-size: 10px;
+    }
+    .box1 h2{
+        font-size: 20px;
+    }
+    .box2 h2{
+        font-size: 20px;
+    }
+    .box3 h2{
+        font-size: 20px;
+    }
+    .input a{
+        padding: 5px 10px;
+    }
+}
